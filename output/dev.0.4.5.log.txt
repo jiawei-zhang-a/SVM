@@ -1,1 +1,1 @@
-Accuracy = 72.8435% (228/313) (classification)
+Accuracy = 77.3163% (242/313) (classification)

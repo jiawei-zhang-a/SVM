@@ -2,7 +2,7 @@
 WARNING: using -h 0 may be faster
 *
 optimization finished, #iter = 1316
-nu = 0.921843
-obj = -27.422639, rho = -0.774389
-nSV = 2600, nBSV = 2598
-Total nSV = 2600
+nu = 0.914384
+obj = -27.127076, rho = -0.773764
+nSV = 2579, nBSV = 2575
+Total nSV = 2579
